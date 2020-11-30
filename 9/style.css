@@ -1,0 +1,28 @@
+.head {
+   
+}
+.a1 {
+    background: rgb(251,165,250);
+    background: linear-gradient(0deg, rgba(251,165,250,1) 0%, rgba(156,38,244,1) 100%);
+    width: 1000px;
+ 
+    margin: 120px 50px;
+    display: flex;
+    
+}
+img {
+   
+    display: block;
+    position: relative;
+ 
+}
+.text {
+    
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 15px;
+    color: snow;
+}
+ul {
+    margin-top: 111px;
+}
